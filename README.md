@@ -1,2 +1,2 @@
-# Git-merge-practice
-Practice git-merge 
+# second-branch
+Practice git-merge
